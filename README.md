@@ -1,7 +1,8 @@
 # MachiMatch
 Software to rename file
 
-Author:Hechelion www.deitec.cl 
+Author:Hechelion www.deitec.cl
+
 programing language: Visual Basic 6 - SP6
 
 
